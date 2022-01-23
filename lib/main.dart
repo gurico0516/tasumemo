@@ -29,7 +29,6 @@ class TasuMemoPage extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
-          // --- 省略 ---
         },
         child: Icon(Icons.add),
       ),
